@@ -82,7 +82,7 @@ footer{
 }
 
 #menu {
-  width: 1350px;
+  width: 1300px;
   height: 60px;
   background: #2a7db1;
   margin: 0 auto;
@@ -130,7 +130,7 @@ footer{
 #menu ul ul {
   position: absolute;
   top: 60px;
-  width: 190px;
+  width: 180px;
   height: 15px;
   visibility: hidden;
 }
@@ -203,3 +203,29 @@ tr:hover
   font-family: Times New Roman (serif);
   font-size: 25px;
 }
+.health
+{
+  font-family: Times New Roman (serif) ;
+  font-size: 20px;
+}
+.hostel
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.infra
+{
+  font-family:'Times New Roman', Times, serif ;
+  font-size: 20px;
+}
+.library
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.food
+{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
