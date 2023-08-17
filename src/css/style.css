@@ -6,15 +6,24 @@
   color: aliceblue;
   text-decoration: none;
   font-family:sans-serif;
-  
-}
-.topnav
-{
-  text-align: right;
+  width: 100%;
   display: block;
+  padding: 15px 20px;  
+  text-align: right;
+}
+.topnav ul
+{
+  list-style: none;
   background-color: rgb(45, 45, 100);
-  padding: 16px 14px;
+  padding: 0;
+  margin:0;
+  text-align: center;
   }
+.topnav li
+{
+  display: inline-block;
+  text-align: right;
+}
 .midnav
 {
   display: block;
@@ -189,4 +198,8 @@ th
 tr:hover
 {
   background-color: #2678ac;
+}
+.welcome a{
+  font-family: Times New Roman (serif);
+  font-size: 25px;
 }
