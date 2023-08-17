@@ -160,3 +160,33 @@ footer{
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
 }
+.overviewpara a
+{
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+table,td,th
+{
+  text-align: left;
+  border: 1px solid;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+th,td{
+  padding: 15px;
+  text-align: left;
+}
+tr:nth-child(odd) 
+{
+  background-color: #3992c9;
+}
+th
+{
+  background-color: #135075;
+}
+tr:hover
+{
+  background-color: #2678ac;
+}
