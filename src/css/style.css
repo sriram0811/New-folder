@@ -150,3 +150,13 @@ footer{
 {
   border-image-width: 10px;
 }
+.trustimg
+{
+  float: left;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
+}
+.trust a{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
