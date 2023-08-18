@@ -228,4 +228,44 @@ tr:hover
   font-size: 20px;
   font-family: 'Times New Roman', Times, serif;
 }
+.welcome
+{
+  display: flex;
+  margin: 20px;
+  align-content: center;
+  justify-content: center;
+}
 
+.welcome div{
+  align-items: center;
+  margin: 20px;
+  width: 100%;
+}
+.welcomewidget
+{
+  background-color: rgb(167, 233, 226);
+}
+.message{
+  border-style: hidden;
+  background-color:rgb(221, 214, 214);
+  margin: 20px;
+}
+.foot
+{
+  display: flex;
+  justify-content: center;
+}
+.yrcpara{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.nccpara
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.place
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
